@@ -1,10 +1,10 @@
-# 💰 Cripto Dashboard
+# Cripto Dashboard
 
 Aplicação desenvolvida com **React + TypeScript**, que consome a API pública da [CoinGecko](https://www.coingecko.com/) para exibir dados em tempo real sobre criptomoedas. É possível visualizar preço, imagem, variação percentual e filtrar moedas pelo nome.
 
 ---
 
-## 🚀 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - React
 - TypeScript
@@ -14,7 +14,7 @@ Aplicação desenvolvida com **React + TypeScript**, que consome a API pública 
 
 ---
 
-## 📌 Funcionalidades
+##  Funcionalidades
 
 - ✅ Listagem de criptomoedas com dados atualizados
 - ✅ Filtro de busca em tempo real
@@ -24,7 +24,7 @@ Aplicação desenvolvida com **React + TypeScript**, que consome a API pública 
 
 ---
 
-## 🧪 Como rodar o projeto localmente
+##  Como rodar o projeto localmente
 
 ```bash
 # Clone o repositório
