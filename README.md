@@ -12,7 +12,7 @@ Aplicação desenvolvida com **React + TypeScript**, que consome a API pública 
 - Axios
 - CSS3
 
----
+----
 
 ##  Funcionalidades
 
